@@ -21,7 +21,7 @@ This is a solution to the [3-column preview card component challenge on Frontend
 
 ### Links
 
-- Live Site URL: [Frontend Mentor - 3-column preview card component solution]()
+- Live Site URL: [Frontend Mentor - 3-column preview card component solution](https://3-column-preview-card-component-soln.netlify.app/)
 
 ### Built with
 
@@ -35,5 +35,5 @@ No new concept learned with this project instead imporved the previously learned
 
 ## Author
 
-- Website - [Frontend Mentor - 3-column preview card component solution]()
+- Website - [Frontend Mentor - 3-column preview card component solution](https://3-column-preview-card-component-soln.netlify.app/)
 - Frontend Mentor - [@Priyanshu4206](https://www.frontendmentor.io/profile/Priyanshu4206)
